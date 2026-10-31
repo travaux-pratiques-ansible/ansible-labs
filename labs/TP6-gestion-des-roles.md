@@ -32,7 +32,7 @@ ansible-playbook -i inventory install_apache.yml
 ## Validation
 Vérifiez que le service Apache est bien démarré :
 ```
-sudo systemctl status apache2
+sudo service apache2 status
 ```
 ---
 
