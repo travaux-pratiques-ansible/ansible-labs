@@ -10,7 +10,7 @@ ansible-galaxy install geerlingguy.apache
 ```
 
 ## Créer un playbook pour tester le rôle
-Fichier : deploy_ntp.yml
+Fichier : install-apache.yml
 
 ```
 ---
