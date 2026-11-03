@@ -121,4 +121,4 @@ Le fichier `/etc/nginx/nginx.conf` généré doit s'adapter automatiquement aux 
 > - Faciliter les changements futurs de port et de message sans modifier le template.
 > - Rendre votre playbook plus flexible et maintenable.
 
-✅ Pensez à rejouer votre playbook pour vérifier que :
+
